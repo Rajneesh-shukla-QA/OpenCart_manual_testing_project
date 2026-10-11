@@ -1,2 +1,45 @@
-# OpenCart_manual_testing_project
-Manual testing project for the OpenCart e-commerce application, covering test scenario identification, test case design and execution, requirement traceability, and defect reporting. Includes Test Plan, Test Scenarios, Test Cases, Test Execution Report, RTM, and Bug Report.
+# OpenCart Manual Testing Project
+
+## Project Overview
+
+This project focuses on manual testing of the OpenCart e-commerce application to validate selected functionalities and identify defects.
+
+## Scope of Testing
+
+- User Registration
+- User Login
+- User Logout
+- Forgot Password
+- Wishlist
+- Add to Cart
+
+## Testing Activities
+
+- Test Scenario Identification
+- Test Case Design and Execution
+- Functional Testing
+- Positive and Negative Testing
+- Defect Reporting
+
+## Project Documents
+
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Test Execution Report
+- Requirement Traceability Matrix (RTM)
+- Bug Report
+
+## Test Summary
+
+- Defects Identified: 5
+
+## Tools Used
+
+- OpenCart
+- XAMPP
+- Microsoft Excel
+
+## Project Outcome
+
+This project demonstrates practical knowledge of manual testing, test documentation, test execution, and defect reporting.
